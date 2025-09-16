@@ -1,4 +1,3 @@
 # Super Mario Bros
 
-### Lua 
 
